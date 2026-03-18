@@ -1,16 +1,20 @@
 ## Hi there 👋
 
 <!--
-**cherooh005/cherooh005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst with skills in Excel and R. I enjoy working with data to find insights and solve problems.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Excel
+- R programming
+- Data cleaning
+- Data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 Projects
+- Student Performance Analysis (see repositories)
+
+## 📫 Contact
+Open to freelance work
+
+## 🌍 Location
+Nairobi, Kenya
 -->
